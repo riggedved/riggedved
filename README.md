@@ -1,5 +1,8 @@
+
 <p align="center">
-  <img src="https://media.tenor.com/3472656166613215053/tenor.gif" width="350" alt="The Amazing Spider-Man GIF" />
+  <a href="https://tenor.com/view/the-amazing-spiderman-spider-man-andrew-garfield-tasm-1-amazing-spiderman-gif-3472656166613215053">
+    <img src="https://media.tenor.com/PLACEHOLDER.gif" width="350" alt="The Amazing Spider-Man GIF" />
+  </a>
 </p>
 
 <h1 align="center">Ved Saxena</h1>
