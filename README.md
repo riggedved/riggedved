@@ -1,6 +1,6 @@
-```html
+
 <p align="center">
-  <img src="YOUR_DIRECT_GIF_URL" width="350" alt="Spider-Man GIF" />
+  <img src="https://media.tenor.com/PLACEHOLDER.gif" width="350" alt="Spider-Man GIF" />
 </p>
 
 <h1 align="center">Ved Saxena</h1>
@@ -22,4 +22,3 @@
 - **[Task Forge](https://github.com/riggedved/task-forge)** — A distributed job processing platform built with FastAPI, Redis, PostgreSQL, and SQLAlchemy.
 - **Crash Guard** — An Android crash detection app with sensor-based detection and emergency alerts.
 - **Running Tracker** — An Android running tracker built with Kotlin and Jetpack Compose, featuring route tracking and performance analytics.
-```
