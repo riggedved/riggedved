@@ -1,16 +1,25 @@
-## Hi there 👋
+```html
+<p align="center">
+  <img src="YOUR_DIRECT_GIF_URL" width="350" alt="Spider-Man GIF" />
+</p>
 
-<!--
-**riggedved/riggedved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Ved Saxena</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://riggedved.dev">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/riggedved/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/riggedved">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/riggedved/">LeetCode</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built
+
+- **[Task Forge](https://github.com/riggedved/task-forge)** — A distributed job processing platform built with FastAPI, Redis, PostgreSQL, and SQLAlchemy.
+- **Crash Guard** — An Android crash detection app with sensor-based detection and emergency alerts.
+- **Running Tracker** — An Android running tracker built with Kotlin and Jetpack Compose, featuring route tracking and performance analytics.
+```
