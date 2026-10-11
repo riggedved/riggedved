@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PASTE_COPIED_IMAGE_ADDRESS_HERE" width="350" alt="Spider-Man GIF" />
+  <img src="[PASTE_COPIED_IMAGE_ADDRESS_HERE](https://tenor.com/eiGXTnybG2H.gif)" width="350" alt="Spider-Man GIF" />
 </p>
 
 <h1 align="center">Ved Saxena</h1>
