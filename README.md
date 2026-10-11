@@ -15,6 +15,10 @@
   <a href="https://leetcode.com/u/riggedved/">LeetCode</a>
 </p>
 
+<p>
+  Drawn to both logic and art - building things with code, exploring ideas, and finding creativity in the little things most people overlook.
+</p>
+
 ## What I've built
 
 - **[Task Forge](https://github.com/riggedved/task-forge)** - A distributed job processing platform built with FastAPI, Redis, PostgreSQL, and SQLAlchemy, featuring priority queues and delayed job execution.
