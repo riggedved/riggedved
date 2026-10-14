@@ -19,8 +19,8 @@
 
 ## What I've built
 
-- **[Task Forge](https://github.com/riggedved/task-forge)** - A distributed job processing platform built with FastAPI, Redis, PostgreSQL, and SQLAlchemy, featuring priority queues and delayed job execution.
+- **[Task Forge](https://task-forge-vexy1.vercel.app/)** - A distributed job processing platform built with FastAPI, Redis, PostgreSQL, and SQLAlchemy, featuring priority queues and delayed job execution.
 
 - **[MindFlow](https://mindflow-vexy1.vercel.app/)** - An AI powered knowledge management platform featuring intelligent auto-tagging, semantic search, and vector embeddings.
 
-- **[Car Mechanic](https://car-mechanic.riggedved.dev)** - A car service platform with a chatbot to help users explore automotive services and get assistance.
+- **[Car Mechanic](https://car-mechanic-vexy1.vercel.app/)** - A car service platform with a chatbot to help users explore automotive services and get assistance.
