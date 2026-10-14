@@ -6,7 +6,7 @@
 <h1 align="center">Ved Saxena</h1>
 
 <p align="center">
-  <a href="www.riggedved.dev">Portfolio</a>
+  <a href="https://www.riggedved.dev">Portfolio</a>
   &nbsp;·&nbsp;
   <a href="mailto:vedsaxena19458@gmail.com">Email</a>
   &nbsp;·&nbsp;
