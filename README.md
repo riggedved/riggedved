@@ -6,6 +6,8 @@
 <h1 align="center">Ved Saxena</h1>
 
 <p align="center">
+  <a href="www.riggedved.dev">Portfolio</a>
+  &nbsp;·&nbsp;
   <a href="mailto:vedsaxena19458@gmail.com">Email</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/riggedved/">LinkedIn</a>
