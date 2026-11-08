@@ -12,6 +12,8 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/riggedved/">LinkedIn</a>
   &nbsp;·&nbsp;
+  <a href="https://x.com/riggedvexy">X</a>
+  &nbsp;·&nbsp;
   <a href="https://leetcode.com/u/riggedved/">LeetCode</a>
 </p>
 
